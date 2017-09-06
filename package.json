@@ -1,0 +1,16 @@
+{
+  "name": "node-smoketests",
+  "version": "1.0.0",
+  "description": "an nodejs app to test stuff",
+  "main": "app.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "Simon Moore",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^2.8.0",
+    "jasmine-console-reporter": "^2.0.1",
+    "zombie": "^5.0.7"
+  }
+}
